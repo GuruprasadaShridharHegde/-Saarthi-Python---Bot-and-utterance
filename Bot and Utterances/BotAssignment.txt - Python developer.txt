@@ -1,0 +1,52 @@
+Bot Assignment version 1.0 
+3 Hour Test 
+
+In the attached file "Utterances.txt" there are list of utterances.
+
+1.Classify them into different intents.
+2.Find meaningfull entities from those utterances.
+3.Tag those utterances with the entities.
+
+Rasa assignment test.
+
+4.Train those utterances in the Rasa NLU. (Write the NLU config file.)
+
+Python test.
+
+5.Write a Python program to automatically generate utterances. It will take a list of entities and a list of utterances as its input. its output will be a list of unique utterances with all the possible meaningful values of entities.
+
+
+  Example- Input
+           Entities_list=["kolkata", "delhi"]
+           utterance_list=["How far is <> from <>", How is the weather in <>"]
+
+           output=["How far is kolkata from delhi","How far is delhi from kolkata,"How is the weather in kolkata,"How is the weather in delhi"]
+
+       
+           Wrong_output=["How far is kolkata from kolkata","How far is delhi from delhi"]
+
+
+
+6.Write a python program to convert a list of dictionaries which may contain duplicate dictonaries into a list containing unique dictionaries.
+
+  Example - Input
+            dict_list=[{'name': 'affirm', 'confidence': 0.9448149204254}, {'name': 'affirm', 'confidence': 0.944814920425415}, {'name': 'inform', 'confidence': 0.9842240810394287}, {'name': 'inform', 'confidence': 0.9842240810394287}]
+
+            output=[{'name': 'affirm', 'confidence': 0.9448149204254}, {'name': 'affirm', 'confidence': 0.944814920425415}, {'name': 'inform', 'confidence': 0.9842240810394287}]
+
+7.Write a Python program to check the validity of password input by users. It should validate the password with given below conditions.
+
+          *At least 1 letter between [a-z] and 1 letter between [A-Z].
+          *At least 1 number between [0-9].
+          *At least 1 special character [!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~].
+          *Minimum length 6 characters.
+          *Maximum length 16 characters.
+
+8.Write a Python program to combine two dictionary adding values for common keys.
+
+                   d1 = {'a': 100, 'b': 200, 'c':300}
+                   d2 = {'a': 300, 'b': 200, 'd':400}
+                   output= {'a': 400, 'b': 400, 'd': 400, 'c': 300}
+
+
+  
