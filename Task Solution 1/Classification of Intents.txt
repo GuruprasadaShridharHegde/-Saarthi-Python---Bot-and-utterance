@@ -1,0 +1,19 @@
+Task 1
+An intent is what a user is trying to accomplish. They are listed below-->
+
+1. look.sales and marketing chatbot
+2. provide.service
+3. solve.problem
+4. offer.services
+5. happen.everything
+6. help.me
+7. coordinate.Saarthi
+8. serve.type enterprise
+9. assist.sales marketing
+10. provide.domain
+11. assist.onboarding
+12. provide.lead generation
+13. details.mail
+14. work.differnt scales
+15. assistance.customer support
+16. service.hospitality
