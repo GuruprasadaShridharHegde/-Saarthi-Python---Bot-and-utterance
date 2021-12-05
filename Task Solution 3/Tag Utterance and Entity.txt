@@ -1,0 +1,41 @@
+
+1.Utterance: I have a food delivery business in my region,can you help me with that?
+  Entity: Food delivery
+2.Utterance: how can you solve my problem?
+  Entity: Problem
+3.Utterance: Do you offer your services to medium sized enterprises?
+  Entity: Medium size
+4.Utterance: Do you provide assistance in sales marketing?
+  Entity: Sales
+5.Utterance: Your contact details?
+  Entity: Contact
+6.Utterance: Had Saarthi ever coordinated with mid sized companies? 
+  Entity: Mid size
+7.Utterance: what are the areas in which you provide service?
+  Entity: Areas
+8.Utterance: Which size of enterprises do you serve usually?
+  Entity: Size
+9.Utterance: could you help me assist in sales marketing?
+  Entity: Sales marketing
+10.Utterance: Do you provide services in e-commerce domain?
+  Entity: E-Commerce
+11.Utterance: What domain is your company currently working for?
+  Entity: Domain
+12.Utterance: Can i get in contact with the customer support?
+  Entity: Customer support
+13.Utterance: Do you make bots for telecommunication domain?
+  Entity: Telecommunication
+14.Utterance: How can I reach out over e-mail?
+  Entity: E-Mail
+15.Utterance: Does your company collaborate with startup?
+  Entity: Startup
+16.Utterance: could you help me assist in user onboarding?
+  Entity: User
+17.Utterance:could you help me assist in lead generation?
+  Entity: Lead generation
+18.Utterances: Which all things are you programmed for?
+  Entity: Things
+19.Utterance: what all kind of enterprise functions you guys provide?
+  Entity: Type of enterprise 
+
+ 
