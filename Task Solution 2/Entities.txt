@@ -1,0 +1,26 @@
+Entities are knowledge repositories used by the bot to provide 
+personalized and accurate responses.With Entities you can easily 
+extract important information from the ongoing conversation, 
+such as phone number, e-mail address or anything you want. 
+Use them when you want your bot to catch important data.
+Some of entities are as follows:
+1. E-mail
+2. Medium size
+3. Sales marketing
+4. e-commerce
+5. IT
+6. Smart
+7. All domain
+8. Grow business
+9. Share number
+10. Agriculture
+11. Startup
+12. User onboarding
+13. Help lead generation
+14. Capabilities
+15. Banking
+16. Programmed
+17. Type kinds
+18. Fast resolve
+19. Phone number
+
