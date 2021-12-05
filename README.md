@@ -14,6 +14,24 @@ Bots are software programs that combine requests, which are typically provided a
 A hands-on knowledge of scikit library and NLTK is assumed. However, if you are new to NLP, you can still read the article and then refer back to resources.
 NLP
 The field of study that focuses on the interactions between human language and computers is called Natural Language Processing, or NLP for short. It sits at the intersection of computer science, artificial intelligence, and computational linguistics. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way. By utilizing NLP, developers can organize and structure knowledge to perform tasks such as automatic summarization, translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation.
+### Rasa Open Source
+![Rasa](https://user-images.githubusercontent.com/85961223/144730430-9b6cafed-a5dc-4c83-9146-ef1290f86d73.png)
+Rasa is an open source machine learning framework to automate text-and voice-based conversations. With Rasa, you can build contextual assistants on:
+* Facebook Messenger
+* Slack
+* Google Hangouts
+* Webex Teams
+* Microsoft Bot Framework
+* Rocket.Chat
+* Mattermost
+* Telegram
+* Twilio
+* Your own custom conversational channels 
+or voice assistants as:
+* Alexa Skills
+* Google Home Actions
+Rasa helps you build contextual assistants capable of having layered conversations with lots of back-and-forth. In order for a human to have a meaningful exchange with a contextual assistant, the assistant needs to be able to use context to build on things that were previously discussed – Rasa enables you to build assistants that can do this in a scalable way.
+
 
 #### NLTK: A Brief Introduction 
 NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. NLTK has been called “a wonderful tool for teaching and working in, computational linguistics using Python,” and “an amazing library to play with natural language.” Natural Language Processing with Python provides a practical introduction to programming for language processing.
