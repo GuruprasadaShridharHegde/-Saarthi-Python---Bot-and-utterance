@@ -21,8 +21,6 @@ A hands-on knowledge of scikit library and NLTK is assumed. However, if you are 
 NLP
 The field of study that focuses on the interactions between human language and computers is called Natural Language Processing, or NLP for short. It sits at the intersection of computer science, artificial intelligence, and computational linguistics. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way. By utilizing NLP, developers can organize and structure knowledge to perform tasks such as automatic summarization, translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation.
 
-![144719059-20f387d0-50c6-43b1-bb3f-e41cdb48a440](https://user-images.githubusercontent.com/85961223/146400970-1fbce101-a1a9-4b84-a6bd-1be3556e4662.jpg)
-
 ### Rasa Open Source
 ![Rasa](https://user-images.githubusercontent.com/85961223/144730430-9b6cafed-a5dc-4c83-9146-ef1290f86d73.png)
 Rasa is an open source machine learning framework to automate text-and voice-based conversations. With Rasa, you can build contextual assistants on:
