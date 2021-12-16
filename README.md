@@ -5,6 +5,12 @@ Saarthi.ai Campus Drive - Selection Process - Assignment round [ DSCE Campus Ban
 ### Will BoT replace me?---->
 When I have startrd working on the AI platform, this was the first question came to my mind. After a while, I have realized, the answer is BIG NO. BoT can't replace us, but they may support us because we have created them. Bots are software programs that combine requests, which are typically provided as text, with contextual data, such as geolocation and payment information, to appropriately handle the request and respond. Bots are often also called "chatbots", "assistants" or "agents." Bot is simple a program that do work for you automatically .So python Bot is a similar thing which is written in python using various modules of python and you can do your work automate .
 
+### Why Bots?
+* Enables the customer service organization to operate efficiently while maintaining focus on the customer
+* Multi Language Support
+* Templates for quick deployment
+* Less Dependency
+* Multi Channel - Voice, Text, Facial.
 ### History---->
 
 ![History](https://user-images.githubusercontent.com/85961223/144718386-14ba89fd-1bf7-433b-8759-c4f8efceeb1f.png)
@@ -56,9 +62,24 @@ Lemmatization: A slight variant of stemming is lemmatization. The major differen
 ![Rasa](https://user-images.githubusercontent.com/85961223/144718943-064d0ae3-8661-4221-a0d5-e6ecc2e723c3.png)
 
 ## Chatbot development platforms----->
+* Health Care
+* Education
+* Banking
+* Retail
 ![Develop](https://user-images.githubusercontent.com/85961223/144719059-20f387d0-50c6-43b1-bb3f-e41cdb48a440.jpg)
 ## Chatbot In Business-------->
 ![Business](https://user-images.githubusercontent.com/85961223/144719128-c59fb72a-d6f7-4e0f-a6ab-cfc4f271d7aa.png)
+* Q & A
+* Appointment Scheduling
+* Status Queries
+* Location Queries
+* Product Information
+* Service Requests
+* Suggestions & Complaints
+
+## Thank you Saarthi.AI and Team--->
+I learnt so many things and concepts because of Saathi.AI. My journey towards creation of chatbots has begun and I develop these concepts as quick as I do.
+
 
 
 
