@@ -81,7 +81,7 @@ Lemmatization: A slight variant of stemming is lemmatization. The major differen
 * Suggestions & Complaints
 
 ## Thank you Saarthi.AI and Team--->
-I learnt so many things and concepts because of Saathi.AI. My journey towards creation of chatbots has begun and I develop these concepts as quick as I do.
+I learnt so many things and concepts because of Saathi.AI. My journey towards creation of chatbots has begun and I develop these concepts as quick as I do..
 
 
 
