@@ -3,7 +3,7 @@ Saarthi.ai Campus Drive - Selection Process 2022-Assignment round [ DSCE Campus 
 
 # Welcome to the BoT World
 ### Will BoT replace me?---->
-When I have startrd working on the AI platform, this was the first question came to my mind. After a while, I have realized, the answer is BIG NO. BoT can't replace us, but they may support us because we have created them. Bots are software programs that combine requests, which are typically provided as text, with contextual data, such as geolocation and payment information, to appropriately handle the request and respond. Bots are often also called "chatbots", "assistants" or "agents." Bot is simple a program that do work for you automatically .So python Bot is a similar thing which is written in python using various modules of python and you can do your work automate .
+When I have started working on the AI platform, this was the first question came to my mind. After a while, I have realized, the answer is BIG NO. BoT can't replace us, but they may support us because we have created them. Bots are software programs that combine requests, which are typically provided as text, with contextual data, such as geolocation and payment information, to appropriately handle the request and respond. Bots are often also called "chatbots", "assistants" or "agents." Bot is simple a program that do work for you automatically .So python Bot is a similar thing which is written in python using various modules of python and you can do your work automate .
 
 ### Why Bots?
 * Enables the customer service organization to operate efficiently while maintaining focus on the customer
