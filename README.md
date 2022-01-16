@@ -1,5 +1,5 @@
 # Saarthi.Ai-[Python Developer]-Bot-and-utterance 
-Saarthi.ai Campus Drive - Selection Process 2022-Assignment round [ DSCE Campus Bangalore ]
+Saarthi.Ai Campus Drive - Selection Process 2022-Assignment round [ DSCE Campus Bangalore ]
 
 # Welcome to the BoT World
 ### Will BoT replace me?---->
