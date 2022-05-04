@@ -1,0 +1,3 @@
+conda activate install_demo
+rasa init
+C:\install_demo
